@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2017\Projects\HackUPCBotController\HackUPCBotController\bin\Debug\HackUPCBotController.exe.config
+c:\users\michael\documents\visual studio 2017\Projects\HackUPCBotController\HackUPCBotController\bin\Debug\HackUPCBotController.exe
+c:\users\michael\documents\visual studio 2017\Projects\HackUPCBotController\HackUPCBotController\bin\Debug\HackUPCBotController.pdb
+c:\users\michael\documents\visual studio 2017\Projects\HackUPCBotController\HackUPCBotController\obj\Debug\HackUPCBotController.exe
+c:\users\michael\documents\visual studio 2017\Projects\HackUPCBotController\HackUPCBotController\obj\Debug\HackUPCBotController.pdb
+C:\Users\Michael\documents\visual studio 2017\Projects\HackUPCBotController\HackUPCBotController\obj\Debug\HackUPCBotController.csprojResolveAssemblyReference.cache
